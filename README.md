@@ -207,6 +207,12 @@ The program generates:
 - Confusion Matrix for each model
 - Model Accuracy Comparison Graph
 
+<img width="987" height="702" alt="Image" src="https://github.com/user-attachments/assets/8e6a9046-9629-4c2b-9c52-1d54438530d1" />
+
+<img width="987" height="635" alt="Image" src="https://github.com/user-attachments/assets/d29608d3-53ab-43c7-ac51-4e936ab6f6ef" />
+
+<img width="492" height="590" alt="Image" src="https://github.com/user-attachments/assets/884e4798-5310-43de-adc9-156ca7827f9d" />
+
   ## sample output
   Accuracy: 0.8897573925226753
 Confusion Matrix:
